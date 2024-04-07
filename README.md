@@ -10,8 +10,4 @@ I delve into the exciting field of Natural Language Processing (NLP). 🧞‍♂
 
  whatsApp:+2001149973327
 
-## Stats
-[![mahmoudibrahims GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudibrahim&show_icons=true&theme=dracula&count_private=true)]
 
-## Languages 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudibrahim&layout=compact&hide=css,html,handlebars)]
