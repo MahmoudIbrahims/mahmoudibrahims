@@ -14,8 +14,8 @@ download markdown
 download backup
 
 preview
-<h1 align="center">Hi 👋, I'm mahmoudibrahim</h1>
-<h3 align="center">Data scientist and machine learning and Deep learning and NLP developer from India</h3>
+<h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
+<h3 align="center">Data scientist and machine learning and Deep learning and NLP developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudibrahims&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahims" /> </p>
 
@@ -23,7 +23,7 @@ preview
 
 <p align="left"> <a href="https://twitter.com/mahmoud91111335" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud91111335?logo=twitter&style=for-the-badge" alt="mahmoud91111335" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MahmoudIbrahims?tab=repositories](https://github.com/MahmoudIbrahims?tab=repositories)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **mahmoudibrahimabdelfattah48@gmail.com**
 
@@ -43,30 +43,5 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudibrahims&show_icons=true&locale=en" alt="mahmoudibrahims" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudibrahims&" alt="mahmoudibrahims" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
 
 
