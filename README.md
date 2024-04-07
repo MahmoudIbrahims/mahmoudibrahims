@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
 <h3 align="center">Data scientist and machine learning and Deep learning and NLP developer from Egypt</h3>
-https://outlane.co/now/new-shot-programmer-animation/
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudibrahims&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahims" /> </p>
 
