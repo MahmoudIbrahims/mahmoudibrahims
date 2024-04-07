@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
 <h3 align="center">Data scientist and machine learning and Deep learning and NLP developer from Egypt</h3>
- img https://iconscout.com/lottie-animation/male-developer-working-on-laptop-8704055
+<img https://iconscout.com/lottie-animation/male-developer-working-on-laptop-8704055
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudibrahims&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahims" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudibrahims" alt="mahmoudibrahims" /></a> </p>
