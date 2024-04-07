@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **LLMS**
 
-- 👨‍💻 All of my projects are available at:[https://github.com/MahmoudIbrahims?tab=repositories]
-
 - 📫 How to reach me **mahmoudibrahimabdelfattah48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
