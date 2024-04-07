@@ -1,21 +1,7 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19665
-Fork on GitHub
-5905
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
 <h3 align="center">Data scientist and machine learning and Deep learning and NLP developer from Egypt</h3>
+https://www.pinterest.com/pin/1122874119585563140/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudibrahims&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahims" /> </p>
 
