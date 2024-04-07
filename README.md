@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
 <h3 align="center">Data scientist and machine learning and Deep learning and NLP developer from Egypt</h3>
-[https://www.pinterest.com/pin/1122874119585563140/](https://www.google.com/search?sca_esv=dcc2d800e57ab626&sxsrf=ACQVn0-g-4HgoHUctt5orV0AMwog1qQxyg:1712505847948&q=software+engineer+animated+coding+gif&udm=2&uds=AMwkrPuGTd48OzcMLxPIOust4tW5Rn1XNdipj1U6FIKfuQu3P86a6UpGTHoN8LPNdWcSRMtMULpYGDRwmkHNqn3q9Se8Se5WfgGoXRvVAS9fyBKeOMqRkqliD-bqXCeE_ndIroWxwfyV44Qlhqnlc6go1I1qjlcHr6oRheljsd9h6OTHVqeqSoY&sa=X&ved=2ahUKEwjwkPi1vbCFAxU4VqQEHU1iAyAQgIoDKAF6BAgOEBE&biw=1152&bih=747&dpr=1#vhid=ZmOH4FBlhx83-M&vssid=mosaic)
+https://outlane.co/now/new-shot-programmer-animation/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudibrahims&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahims" /> </p>
 
