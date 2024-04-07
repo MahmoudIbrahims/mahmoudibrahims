@@ -1,14 +1,27 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+19665
+Fork on GitHub
+5905
 
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
-<h3 align="center">Data scientist and machine learning and Deep learning and NLP developer from Egypt</h3>
+<h3 align="center">Data scientist and machine learning and Deep learning and NLP developer from EGYPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudibrahims&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahims" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudibrahims" alt="mahmoudibrahims" /></a> </p>
+- 🌱 I’m currently learning **LLMS**
 
-<p align="left"> <a href="https://twitter.com/mahmoud91111335" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud91111335?logo=twitter&style=for-the-badge" alt="mahmoud91111335" /></a> </p>
-
-- 👨‍💻 All of my projects are available at https://github.com/MahmoudIbrahims?tab=repositories
+- 👨‍💻 All of my projects are available at [MahmoudIbrahims?tab=repositories](MahmoudIbrahims?tab=repositories)
 
 - 📫 How to reach me **mahmoudibrahimabdelfattah48@gmail.com**
 
@@ -28,5 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudibrahims&show_icons=true&locale=en" alt="mahmoudibrahims" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudibrahims&" alt="mahmoudibrahims" /></p>
+
+
 
 
