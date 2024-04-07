@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
 <h3 align="center">I'm Data scientist and machine learning and Deep learning and NLP developer from EGYPT</h3>
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/> 
+<p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif"/> 
 </p>
+
+# https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudibrahims&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahims" /> </p>
 
