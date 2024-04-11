@@ -28,7 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudibrahims&" alt="mahmoudibrahims" /></p>
 
-![snake gif](https://github.com/mahmoudibrahims/mahmoudibrahims/blob/output/github-contribution-grid-snake.gif)
-![snake gif](https://github.com/MahmoudIbrahims/MahmoudIbrahims/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
 
