@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
-<h3 align="center">I'm Data scientist and machine learning and Deep learning and NLP developer from EGYPT</h3>
+<h3 align="center">I'm Ai Engineer </h3>
 <p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif"/> 
 </p>
 
