@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mahmoud ibrahim</h1>
+<h1 align="center">Hi 👋, my name is mahmoud ibrahim</h1>
 <h3 align="center">I'm AI Engineer </h3>
 <p align="left"> <img src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif"/> 
 </p>
